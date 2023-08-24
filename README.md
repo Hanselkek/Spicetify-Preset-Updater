@@ -1,0 +1,1 @@
+# Spicetify-Preset-Updater
